@@ -1,0 +1,19 @@
+.yongh{
+    border-left: 1px solid gray ;
+    border-right: 1px solid gray ;
+    width: 100%;
+    height: 680px;
+    margin-left: 0px;
+    background-image: linear-gradient(#f77f85e0, #ee86863f);
+}
+
+.login_yongh{
+    width: 600px;
+    height: auto;
+    margin:0 auto;
+    padding-top: 170px;
+    /* background-color:rgb(186, 238, 245); */
+}
+.login-wai{
+    width: 70%;
+}

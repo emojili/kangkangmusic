@@ -1,0 +1,23 @@
+.SearchBox{
+    /* display: block; */
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    border-radius: 5px;
+    width: 80%;
+    margin: 10px auto;
+}
+.h3 h3{
+    font-size: 18px;
+    font-weight: 600;
+}
+.aimg{
+    height: 160px;
+    width: 100%;
+    border-radius: 5%;
+}
+.lun{
+    background-color:white;
+    height: 100%;
+    width: 100%;
+}

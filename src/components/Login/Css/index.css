@@ -1,0 +1,70 @@
+/* //登录表单样式 */
+.yongh{
+    border-left: 1px solid gray ;
+    border-right: 1px solid gray ;
+    width: 400px;
+    height: 680px;
+    margin:0 auto;
+    background-image: linear-gradient(#e6647acb, #e5919827);
+}
+
+.login_yongh{
+    width: 600px;
+    height: auto;
+    margin:0 auto;
+    padding-top: 170px;
+    /* background-color:rgb(186, 238, 245); */
+}
+.login_re{
+    font-size: 25px;
+    display: inline-block;
+    color: lightblue;
+}
+.login_form{
+    margin-left:5%;
+    /* border: 2px solid gray; */
+    font-size: 15px;
+}
+.rlogin_form{
+    margin-left:5%;
+    width: 55%;
+    /* border: 2px solid gray; */
+    font-size: 15px;
+}
+.login_list{
+    margin:0px;
+    color: rgba(202, 90, 90, 0.945);
+    font-size: 6px;
+    background-color: white;
+    border:2px solid #e9e4e4;
+	padding:5px 20px; 
+    width:60%;
+    height: 1%;
+	border-radius:2px;
+}
+.login_sub{
+
+    margin:0px;
+    color: rgba(202, 90, 90, 0.945);
+    font-size: 10px;
+    background-color: white;
+    border:2px solid #e9e4e4;
+	padding:5px 20px; 
+    width:74%;
+    height: 20%;
+	border-radius:10px;
+    
+}
+.rlogin_sub{
+
+    margin:0px;
+    color: rgba(202, 90, 90, 0.945);
+    font-size: 10px;
+    background-color: white;
+    border:2px solid #e9e4e4;
+	padding:5px 20px; 
+    width:82%;
+    height: 20%;
+	border-radius:10px;
+    
+}

@@ -1,0 +1,11 @@
+.warp_List{
+    width: 100%;
+    overflow: hidden;
+}
+.recommendList{
+    margin: 10px 0 20px 0;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+}

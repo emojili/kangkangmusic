@@ -1,0 +1,25 @@
+
+.gedangc h2{
+    text-align: center;
+}
+.head1.back{
+    font-size: 40px;
+}
+.h_controll{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    overflow: hidden;
+
+    padding: 5px;
+}
+.h_controll .back{
+   flex: 1;
+   text-align: left;
+   color: rgb(21, 22, 21);
+   line-height: 20px;
+}
+.backg{
+    
+    background-image: linear-gradient(to bottom right,#f07a7a6c, #e591911c);
+}

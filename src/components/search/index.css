@@ -1,0 +1,183 @@
+@font-face {
+    font-family: 'iconfont';  /* Project id 2646351 */
+    src: url('//at.alicdn.com/t/font_2646351_buoz7cfam6l.woff2?t=1625141070020') format('woff2'),
+    url('//at.alicdn.com/t/font_2646351_buoz7cfam6l.woff?t=1625141070020') format('woff'),
+    url('//at.alicdn.com/t/font_2646351_buoz7cfam6l.ttf?t=1625141070020') format('truetype');
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;}
+.ycfhead1 {
+    width: 100%;
+    height: 195px;
+    background-color: rgb(143,160,176);
+}
+.ycfhead_top {
+    width: 100%;
+    height: 25px;
+}
+.ycfhead_bodyleft {
+    width: 55%;
+    height: 100%;
+    float: left;
+}
+.ycfhead_bodyright {
+    float: right;
+}
+.ycfhead_bodyright img{
+    width: 100px;
+    height: 100px;
+}
+.ycfhead_top p{
+    color: white;
+    float: left;
+    margin-left: 3%;
+}
+.ycfhead_top span {
+    float: right;
+    margin-right: 3%;
+    color: white;
+}
+.ycfhead_body {
+    height: 110px;
+    width: 80%;
+    margin: 20px auto;
+}
+.ycfhead_body p,.ycfhead_body > span {
+    color: white;
+
+}
+.ycfhead_body span {
+    font-size: 10px;
+}
+.ycfhead_body p{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.ycfteam {
+    width: 94%;
+    height: 36px;
+    margin: 20px auto;
+}
+.ycfteam img{
+    float: left;
+}
+.ycfteam p {
+    float: left;
+    line-height: 36px;
+}
+.ycfteam a {
+    float: right;
+    text-decoration: none;
+    color: rgb(127,127,127);
+    font-size: 12px;
+    line-height: 36px;
+}
+.ycfvedio {
+    width: 94%;
+    /* height: 20px; */
+    margin: 10px auto 0;
+    overflow: hidden;
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+}
+.ycfvedio p {
+    /* float: left; */
+    line-height: 30px;
+}
+.ycfvedio a{
+    /* float: right; */
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(127,127,127);
+}
+.ycfvedio .ycfvedioactive {
+    margin-right: 4%;
+    float: left;
+}
+.ycfvediolb {
+    margin-left: 4%;
+}
+.ycfbanner {
+    width: 94%;
+    margin: 30px auto 0;
+    overflow: hidden;
+
+}
+.ycfbannerson {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+}
+.bannersonhd{
+    flex: 1;
+}
+.bannersonhd img{
+    width: 100px;
+    height: 100px;
+}
+.bannersonna {
+    flex: 2;
+    margin-left: 20px;
+}
+.bannersonna p {
+    font-weight: 700;
+}
+.bannersonna .bannersonna_aut {
+    color: rgb(155,155,155);
+    /* line-height: 5px; */
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.bannersonna_aut{
+    margin-left: 5px;
+}
+.bannersonna_span{
+    height: 17px;
+    width: 100%;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.bannersonha span {
+    color: rgb(155,155,155);
+}
+.bannersonha p{
+    color: rgb(155,155,155);
+}
+.bannersonna .bannersonna_shu {
+    float: left;
+    width: 30px;
+    height: 15px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 15px;
+    border: rgb(83,199,160) 1px solid;
+    font-weight: 700;
+    color: rgb(83,199,160);
+    border-radius: 5px;
+}
+.bannersonha {
+    float: left;
+    width: 19%;
+}
+.bannersonha a {
+    float: left;
+    text-decoration: none;
+    color: rgb(127,127,127);
+    font-size: 20px;
+    line-height: 36px;
+}
+.bannersonha .bannersonha_ved{
+    margin-left: 15%;
+    margin-right: 22%;
+}

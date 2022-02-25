@@ -1,0 +1,111 @@
+.q.tupian.tu{
+    position: absolute;
+    z-index:-1;
+    height: 80%;
+    width: 120%;
+    left: 0;
+}
+
+.offical>.ant-image{
+    display: inline-block;
+    width: 60%;
+    height: 260px;
+    position: relative;
+}
+
+.offical .bg{
+   
+    height: 98%;
+    width: 100%;
+    left: 0;
+}
+.offical{
+    width: 100%;
+    color: #777777;
+}
+.introductionBox{
+    background-color:white;
+    width: 40%;
+    height: 50%;
+    display: inline-block;
+}
+.introductionWrap{
+    background-color: #fff;
+    
+    width: 100%;
+    margin-left:10px;
+    
+    
+}
+.introductionWrap .itop,.introductionWrap .iControll,.ic_left{
+    display: flex;
+    flex-direction: row;
+}
+.itop span {
+    font-size: 12px;
+    line-height: 30px;
+    margin-left: 5px;
+}
+.Icontent{
+    padding: 10px;
+    font-size: 10px;
+}
+.ic_left{
+    padding: 0 0 10px 0px;
+    flex: 1;
+}
+.ic_left span{
+    display: block;
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 5px;
+}
+.ic_right{
+    display: flex;
+    flex-direction: column;
+}
+.ic_right .Heart{
+    color:rgb(226, 93, 93);
+    font-size: 20px;
+}
+.ic_right span{
+    font-size: 12px;
+}
+.iControll .playAll{
+    font-size: 20px;
+    color:rgb(226, 93, 93);
+}
+.musicItem{
+    margin:10px 0;
+    line-height: 20px;
+    
+    padding: 5px;
+} 
+.alla{
+
+    margin-right: 15px;
+    font-weight: 100;
+    font-size: 15px; 
+    float: right;
+    color:rgb(226, 93, 93);
+}
+.all{
+
+    margin-right: 0px;
+    font-weight: 100;
+    font-size: 15px; 
+float: right;
+    color:rgb(226, 93, 93);
+}
+.musicItem .musicName{
+    float: left;
+    width: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #000;
+}
+.musicItem .author{
+    margin-left: 5px;
+    font-size: 10px;
+    color: #8f8c8c;
+}

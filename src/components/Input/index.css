@@ -1,0 +1,29 @@
+.SearchBox{
+    /* display: block; */
+    height: 50px;
+    border-radius: 10px;
+    width: 80%; 
+    margin-left:10%;
+    padding-left: 5%;
+    padding-right: 20%;
+    outline: none;
+    
+}
+.zxh_input{
+    width: 100%;
+    position: relative;
+    margin-bottom: 30px;
+}
+.zxh_img1{
+    width: 60%;
+    height: 100%;
+
+}
+.zxh_img{
+    position: absolute;
+    top: 30%;
+    left: 79%;
+}
+.searchcontent{
+    width: 80%;
+}
