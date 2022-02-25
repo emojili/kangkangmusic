@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-这是kangkangmusic的前端项目，后端项目请访问kangkangmusic-api仓库
+这是kangkangmusic的前端项目，后端项目请访问kangkangmusic-api仓库(后端项目启动：node app.js)
 这是一个react项目，在脚手架输入npm start 启动项目
 项目原型为app项目，如需更好的体验请打开开发者工具切换至手机模式
 项目首页是导航栏，可进行登录注册操作，主要的音乐功能都可正常运作，有部分功能需要完善
